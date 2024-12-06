@@ -1,0 +1,29 @@
+.body {
+  margin: 2rem;
+
+  background-color: rgb(224, 220, 217);
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.int-text {
+  width: 50%;
+}
+.int-text,
+.btn-Search,
+.btn-age {
+  padding: 1rem;
+  margin: 1rem 1rem;
+}
+.btn-age {
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+.list {
+  border: 1px solid #333;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
